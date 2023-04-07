@@ -133,4 +133,5 @@ footer > p{
 footer p a {
     text-decoration: none;
     color: #750d37;
+    font-weight: bolder;
 }
